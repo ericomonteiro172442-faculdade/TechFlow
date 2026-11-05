@@ -42,3 +42,5 @@ class TaskManager:
 # Metodos de leitura e atualizacao de status
 
 # Metodo para remocao de tarefas
+
+# Refatoracao e documentacao de metodos internos

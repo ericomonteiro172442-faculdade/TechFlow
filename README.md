@@ -28,3 +28,6 @@ Utilização da metodologia **Kanban** integrada ao GitHub Projects para control
 "@
 ## Status do Projeto
 Projeto concluido e validado via CI.
+
+## Status do Projeto
+Projeto concluido e validado via CI.

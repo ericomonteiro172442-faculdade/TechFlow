@@ -40,3 +40,5 @@ class TaskManager:
 # Metodo para criar tarefas implementado
 
 # Metodos de leitura e atualizacao de status
+
+# Metodo para remocao de tarefas

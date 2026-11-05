@@ -28,3 +28,5 @@ def test_delete_task():
 # Teste de atualizacao de status
 
 # Teste de remocao de tarefas
+
+# Teste de atualizacao de status

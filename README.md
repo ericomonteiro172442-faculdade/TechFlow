@@ -31,3 +31,6 @@ Projeto concluido e validado via CI.
 
 ## Status do Projeto
 Projeto concluido e validado via CI.
+
+## Status do Projeto
+Projeto concluido e validado via CI.
